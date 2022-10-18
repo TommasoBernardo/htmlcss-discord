@@ -211,13 +211,11 @@ footer section.footer-top aside{
 footer section.footer-top nav{
     width: 70%;
     height: 100%;
-    background-color: #20b2aa;
 }
 
 footer .footer-top nav ul{
     width: 25%;
     height: 100%;
-    border: 2px dashed white;
 }
 
 footer hr{
@@ -226,7 +224,6 @@ footer hr{
 
 footer section.footer-bottom{
     height: 100px;
-    background-color: #7fffd4;
     justify-content: space-between;
 }
 
@@ -253,6 +250,21 @@ div#jumbotron .jumbo-content{
     font-size: 1.8rem;
     color: white;
     padding-top: 40px;
+}
+
+.viola{
+    color: #6d83d0; 
+}
+
+.lista{
+    text-align: left;
+    list-style: none;
+    font-size: 1.1rem;
+    line-height: 2rem;
+
+}
+.bianco{
+    color: white;
 }
 
 .filtri{
