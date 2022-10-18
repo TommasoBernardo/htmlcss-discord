@@ -172,20 +172,40 @@ div.big-content{
     width: 100%;
 }
 
+.aside-color{
+    text-align: left;
+    font-size: 45px;
+    margin-bottom: 30px;
+    color: #7188d9;
+}
+
+#ita{
+    height: 20px;
+    vertical-align: bottom;
+}
+
+#top{
+    margin-top: 20px;
+    filter: invert(100%) sepia(0%) saturate(7493%) hue-rotate(148deg) brightness(90%) contrast(115%);
+}
+
+
+.app{
+    margin-left: 20px;
+    filter: invert(100%) sepia(0%) saturate(7493%) hue-rotate(148deg) brightness(90%) contrast(115%);
+}
+
 footer{
     padding: 2rem;
 }
 
 footer section.footer-top{
     height: 500px;
-    background-color: #7fffd4;
 }
 
 footer section.footer-top aside{
     width: 30%;
-    height: 100%;
-    background-color: #f08080;
-
+    height: 100%;   
 }
 
 footer section.footer-top nav{
