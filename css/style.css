@@ -154,7 +154,7 @@ footer .footer-button{
 
 
 div#jumbotron{
-    background-image: url(./img/jumbo.png);
+    background-image: url(/img/jumbo.png);
     height: 450px;
     width: 100%;
 }
