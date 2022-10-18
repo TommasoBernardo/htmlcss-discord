@@ -83,12 +83,32 @@ nav div.login{
     background-color: white;
     border-radius: 20px;
     font-size: 15px;
-    padding: 7px;  
+    padding: 8px 15px;
+    border: 0; 
+}
+
+.button{
+    font-size: 17px;
+    border-radius: 20px;
+    padding: 10px 30px;
+    border: 0;
+    margin-left: 15px;
+}
+
+.white{
+    background-color: white;
+}
+
+.black{
+    background-color: #23272a;
+    color: white;
 }
 
 #paragrafo{
-    font-size: 1.2rem;
+    font-size: 1.26rem;
     padding-top: 2rem;
+    padding-bottom: 20px;
+    line-height: 1.8rem;
 }
 
 nav ul.main-menu{
@@ -168,11 +188,10 @@ div#jumbotron{
 div#jumbotron .jumbo-content{
     width: 45%;
     height: 350px;
-    background-color: #ed81ed;
     text-align: center;
-    font-size: 2rem;
+    font-size: 1.8rem;
     color: white;
-    padding-top: 2rem;
+    padding-top: 40px;
 }
 
 
