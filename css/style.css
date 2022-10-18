@@ -5,6 +5,8 @@
     box-sizing: border-box;
 }
 
+
+
 .flex{
     display: flex;
 }
@@ -29,8 +31,6 @@
 
 .big-col{
     width: 65%;
-    background-color: #1e8ffe;
-
 }
 
 .small-col{
@@ -102,6 +102,17 @@ nav div.login{
 .black{
     background-color: #23272a;
     color: white;
+}
+
+.invito{
+    font-size: 60px;
+    padding-top: 30px;
+}
+
+.server{
+    font-size: 1.6rem;
+    padding-top: 25px;
+    line-height: 2.3rem;
 }
 
 #paragrafo{
