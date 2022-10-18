@@ -209,4 +209,7 @@ div#jumbotron .jumbo-content{
     padding-top: 40px;
 }
 
-
+.filtri{
+    display: block;
+    filter: invert(100%) sepia(0%) saturate(7493%) hue-rotate(148deg) brightness(90%) contrast(115%);
+}
