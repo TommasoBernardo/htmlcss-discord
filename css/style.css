@@ -229,7 +229,6 @@ footer section.footer-bottom{
 
 footer .footer-logo,
 footer .footer-button{
-    background-color: rgb(246, 136, 154);
     padding: .5rem;
     font-size: 1.25rem;
 }
@@ -265,6 +264,15 @@ div#jumbotron .jumbo-content{
 }
 .bianco{
     color: white;
+}
+
+.pie{
+    background-color:#6d83d0;
+    color: white;
+    font-size: 15px;
+    border-radius: 20px;
+    padding: 10px 30px;
+    border: 0;
 }
 
 .filtri{
