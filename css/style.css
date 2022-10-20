@@ -5,6 +5,10 @@
     box-sizing: border-box;
 }
 
+body{
+    font-family: 'Fredoka One', cursive;
+}
+
 
 
 .flex{
@@ -104,7 +108,7 @@ nav div.login{
 }
 
 .invito{
-    font-size: 60px;
+    font-size: 50px;
     color:#23272a;
 }
 
